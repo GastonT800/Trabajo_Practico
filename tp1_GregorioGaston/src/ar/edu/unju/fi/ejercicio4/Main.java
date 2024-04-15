@@ -39,6 +39,7 @@ public class Main {
 			System.out.println("El número ingresado esta fuera del rango asignado");
 		}
 		
+		sc.close();
 	}
 
 }
