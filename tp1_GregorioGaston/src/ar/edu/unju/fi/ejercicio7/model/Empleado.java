@@ -26,7 +26,7 @@ public class Empleado {
 		
 		System.out.println("El nombre del empleado es: " + nombre);
 		System.out.println("Legajo: " + legajo);
-		System.out.println("Salario $: " + salario);
+		System.out.println("Salario: " + salario + "$");
 		
 	}
 	
